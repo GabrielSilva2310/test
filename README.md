@@ -1,1 +1,1 @@
-Projeto consiste na ;;;;
+Projeto consiste na criação do projeto 
